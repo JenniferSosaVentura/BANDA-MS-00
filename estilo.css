@@ -1,0 +1,32 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+h1{
+    text-align: center;
+	background-color: teal;
+	color: black;
+	padding: 80px;
+}
+nav ul{
+	background-color: #e8b795;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li{
+	display: inline-flex;
+}
+nav a {
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+	width: 250px;
+}
+nav li:hover{
+	background-color: #edaf8a;
+}
+#texto{
+	text-align: center;
+	padding:30px;
+	}
